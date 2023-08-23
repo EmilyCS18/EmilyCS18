@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmilyCS18/CS.Projects.git](https://github.com/EmilyCS18/CS.Projects.git)
 
-- 💬 Ask me about **virtual box for home labs!**
+- 💬 Ask me about **Linux and Virtual Box**
 
 - 📫 How to reach me **EmilyGC.0918@gmail.com**
 
