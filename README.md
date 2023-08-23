@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilycs18&label=Profile%20views&color=0e75b6&style=flat" alt="emilycs18" /> </p>
 
-- 🔭 I’m currently working on **getting my certification in LPI Linux Essentials!**
+- 🔭 I’m currently working on **getting my certification on LPI Linux Essentials!**
 
 - 🌱 I’m currently learning **Linux and advancing my skills in C++**
 
