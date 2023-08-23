@@ -1,4 +1,4 @@
-![Banner](https://onlinegrad.syracuse.edu/wp-content/uploads/sites/36/2021/01/kid-friendly-coding-languages-01.jpg)
+![Banner](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png.webp)
 <h1 align="center">Hi 👋, I'm Emily Contreras</h1>
 <h3 align="center">A passionate Computer Science student in the Bay Area!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
