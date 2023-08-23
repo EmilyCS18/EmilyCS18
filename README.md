@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://images.pling.com/img/00/00/55/86/05/1487642/17aece372bdbe83442398fa4ee74f52fca9b97185258b83a6fb3cddd69befa23d648.gif))]
+![Banner](https://images.pling.com/img/00/00/55/86/05/1487642/17aece372bdbe83442398fa4ee74f52fca9b97185258b83a6fb3cddd69befa23d648.gif)
 <h1 align="center">Hi 👋, I'm Emily Contreras</h1>
 <h3 align="center">A passionate Computer Science student in the Bay Area!</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
