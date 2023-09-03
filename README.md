@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/4ryx66tWEhcAAAAd/pixel-study.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=emilycs18&label=Profile%20views&color=0e75b6&style=flat" alt="emilycs18" /> </p>
 
-- 🔭 I’m currently working on **getting my certification on LPI Linux Essentials!**
+- 🔭 I’m currently working on **making my own project of EMR (electronic medical record)**
 
-- 🌱 I’m currently learning **Linux and advancing my skills in C++**
+- 🌱 I’m currently learning **advancing my skills in C++ & Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmilyCS18/CS.Projects.git](https://github.com/EmilyCS18/CS.Projects.git)
 
-- 💬 Ask me about **Linux and Virtual Box**
+- 💬 Ask me about **my LPI Linux Essentials Certification!**
 
 - 📫 How to reach me **EmilyGC.0918@gmail.com**
 
