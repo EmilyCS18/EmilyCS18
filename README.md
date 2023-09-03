@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **making my own project of EMR (electronic medical record)**
 
-- 🌱 I’m currently learning **advancing my skills in C++ & Linux**
+- 🌱 I’m currently **advancing my skills in C++ & Linux**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EmilyCS18/CS.Projects.git](https://github.com/EmilyCS18/CS.Projects.git)
 
